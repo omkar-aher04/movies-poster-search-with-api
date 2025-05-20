@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+}
+
+#results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+.images{
+    height: 200px;
+    width : 270px;
+    margin: 14px;
+    border: 1px solid white;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    margin-top: 20px;
+}
+input{
+    height: 23px;
+}
